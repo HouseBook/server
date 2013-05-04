@@ -1,0 +1,17 @@
+{
+	"mlsid": 123456,
+	"rooms": {
+		"bed1": {
+			"audio": {
+				"raw": "<binary>",
+				"text": "this is the audio converted to text"
+			}
+		},
+		"bed2": {
+			"audio": {
+				"raw": "<binary>",
+				"text": "this is the audio converted to text"
+			}
+		}
+	}
+}
